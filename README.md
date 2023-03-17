@@ -1,4 +1,4 @@
-Small ToDoList App where you can :
+Small ToDoList App with no CSS where you can :
 - Add tasks
 - Deletes tasks
 - Check or Uncheck tasks
